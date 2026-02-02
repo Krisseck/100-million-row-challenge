@@ -12,7 +12,7 @@ final class DataParseCommand
     #[ConsoleCommand]
     public function __invoke(): void
     {
-        $intputPath = __DIR__ . '/../data.csv';
+        $inputPath = __DIR__ . '/../data.csv';
 
         // TODO
 
